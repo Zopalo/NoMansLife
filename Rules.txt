@@ -1,0 +1,290 @@
+RÈGLEMENT DU SERVEUR NO MAN'S LIFE DARKRP
+
+Tout abus de ces règles ou leur non-application peuvent vous conduire à des exclusions temporaires ou permanentes, en fonction de la gravité de la faute.
+
+
+RÈGLES GÉNÉRALES (Applicables à tous les métiers)
+
+Ambiance :
+
+OBLIGATION de choisir un nom RP correct, respectueux d'autrui et ne contenant aucun style de jeux de mots. Essayez d'être original !
+INTERDIT de parler en HRP (Hors-Roleplay) sans la présence d'un admin qui vous y autorise, sinon vous serez dès lors exposés à de lourdes sanctions.
+INTERDIT de s'asseoir sur un banc et de mettre de la musique
+Si vous êtes face à un joueur NO-RP, RESTEZ ABSOLUMENT DANS VOTRE RP et contactez rapidement un admin via la commande "/// [Nom du joueur NO-RP] [Faute du joueur]".
+
+
+Binds :
+
+Qu'est-ce qu'un bind?
+Un bind est l'attribution d'une touche à une action, message écrit ou une commande.
+Quelques exemples de binds fréquents : 
+"/me sort son arme" 
+"/me fume une cigarette"
+"/drop (jeter son arme au sol)"
+Le bind "/me sort son arme" est OBLIGATOIRE pour sortir une arme, quelque soit l'arme ou la situation dans laquelle vous vous trouvez.
+Les binds doivent être respectés ! Si vous parlez après qu'un de vos assaillants vous ait bâillonné, vous serez considéré comme HRP.
+Les binds tels que "/me l'assome", "/me l'hypnose pour lui faire oublier ce qu'il vient de voir",... Sont du SUPERGAMING, et donc INTERDITS. Vous n'êtes ni l'agent 47, ni Rambo et encore moins Chuck Norris!
+Pour bind une touche avec un /me, tapez la commande suivante dans la console (F10) : bind [touche] "say /me sort son arme"
+
+
+Construction :
+
+Si vous ne voulez pas être dérangé lorsque vous réalisez une construction, nous vous laissons l'opportunité de vous soustraire momentanément au RP ambiant.
+Pour ce faire, une affiche "En construction" doit-être placée à l'entrée de la zone concernée si vous voulez bénéficier de cet avantage.
+OBLIGATION de placer les keypads à proximité des fading doors et accessibles par les joueurs.
+INTERDIT de rentrer dans une zone en construction qui ne vous appartient pas !
+INTERDIT de placer des imprimantes d'argent ou une installation de meth dans une zone en construction !
+INTERDIT de placer des props/entités invisibles ou en lévitation (Construction réaliste !).
+INTERDIT de placer des props dans un bâtiment qui ne vous appartient pas.
+INTERDIT de construire dans les rues. Exceptions : S.D.F. et gouvernement (Police, BPE, Militaire).
+INTERDIT de bloquer une rue. Exception : dans le cas de la prise de contrôle d'un quartier par une faction criminelle, où ceux-ci peuvent aménager les accès au quartier.
+INTERDIT de placer des keypads-fakes (Keypads ne servant qu'à tromper ou piéger les assaillants).
+INTERDIT d'utiliser l'outil Fading Door pour autre chose que des meurtrières ou des portes (Exemple : rampes/planchers).
+INTERDIT de réaliser des défenses incluant des meurtrières millimétrées ou forçant les joueurs à s'accroupir.
+
+
+Véhicules :
+
+INTERDIT de faire un freekill de masse avec son véhicule, cependant le carkill en lui même n'est pas interdit.
+INTERDIT de mettre de la musique dans les véhcules de fonction (Police - Ambulance - Pompier - Dépanneur) 
+ATTENTION ! L'utilisation prolongée du klaxon peut être considérée comme un spam son.
+Si un véhicule est arrêté sur votre voie de circulation contournez en faisant un léger contresens s'est autorisé au code la route 
+La conduite RP est exigée ! (Rouler à droite, parking, feu rouge au centre-ville, pas d'excès de vitesse sans raison valable, se mettre sur le bas côté quand on entend la sirène de véhicule d'urgence, etc...
+Cette règle s'applique à tout le monde ! Même les policiers ! (Pas de sirène sans raison, etc...)
+
+
+Crimes :
+
+INTERDIT de tuer toutes les forces de police ainsi que les bandits d'un braquage, en effet c'est irréalisable IRL. (contre braquage en gros)
+INTERDIT de braquer et voler sans au moins 2 policiers sur le serveur.
+INTERDIT de voler les voitures de fonctions (véhicule de police, camion de pompier, ambulance...).
+INTERDIT de forcer un joueur à spawn des objets de son menu F4 (dealer, cuisinière,...).
+INTERDIT de braquer/tuer/voler dans une zone de spawn.
+INTERDIT de détruire vos imprimantes d'argent lors d'un braquage pour éviter de vous faire voler (cette règle s'applique également pour les banquiers). Il est également interdit de détruire ses imprimantes d'argents avant/pendant une perquisition policière.
+INTERDIT de tuer des policiers dans le but de sauver un allié en cours d'arrestation sans sommations.
+La rançon maximale en prise d'otage est de 5 000$ par otage.
+Un otage peut être abattu si la police ne coopère pas au bout de 10 minutes. Il est INTERDIT d’abattre l'otage avant ces 10 minutes !
+Pour un racket/vol de voiture, la rançon maximale est de 1000$
+Il faut être minimum 2 joueurs dont un armé pour faire un racket/prise d'otage.
+
+
+Armes :
+
+INTERDIT de ranger son arme dans son inventaire en pleine action.
+INTERDIT de sortir une arme de son inventaire après avoir été fouillé ou lors d'une scène en cours.
+
+
+Gameplay :
+
+INTERDIT d'utiliser des pizzas ou de la drogue en action RP pour régénérer sa vie.
+INTERDIT aux agents de police/BPE de s’équiper d'un skin du !shop.
+INTERDIT de s'installer hors map ou dans un bug afin de printer ou faire de la meth tranquillement.
+INTERDIT d'aller dans le tunnel du métro! (serveur 2 uniquement)
+INTERDIT de use bouton (clavier), c'est-à-dire d'ouvrir un Fading Door avec un bouton (ou votre touche clavier), tirer et refermer de suite.
+INTERDIT de laisser volontairement une radio dans la rue.
+INTERDIT d'utiliser le /sleep en fusillade.
+INTERDIT de changer de skin durant une action RP.
+
+
+Alliances :
+
+L'alliance métier est INTERDITE entre et avec les gangs (Mafieux / Gangsters / Jades / Anarchistes), cependant elle peut être faîte entre d'autres métiers si un contexte RP, intelligent et logique est présent.
+
+RÈGLES DES MÉTIERS
+
+
+Citoyen :
+
+Règles :
+Aucune alliance avec les gangs.
+
+
+Policier/BAC/BPE :
+
+-> GUIDE DU BON POLICIER <-
+
+Règles :
+Vous devez diminuer la criminalité dans votre ville ! La traque des criminels est votre devoir !
+INTERDIT de faire des "contrôles de routine" ! Il vous faut une preuve tangible pour fouiller/perquisitionner
+INTERDIT de tirer sur quelqu'un sans sommations ORALES. (Létal ou non)
+INTERDIT d'utiliser le feu pour détruire des barricades
+INTERDIT de faire appel à une aide externe autre que le gouvernement pour une action RP. (Ex : Tueur à gages, gangs,...)
+INTERDIT d'utiliser son taser lors une fusillade.
+Particularité BAC : Votre objectif est d'infiltrer, espionner et leurrer les criminels de la ville pour le compte du gouvernement.
+
+
+Maire :
+
+Règles :
+Vous avez le choix entre contribuer au bonheur de vos habitants ou instaurer une terrible dictature.
+INTERDIT de donner l'ordre aux policiers de tirer à vue!
+INTERDIT d'enlever sa dictature lors d'une attaque pour sauver sa vie.
+Imprimantes d'argent autorisées INTERDIT d'utiliser des imprimantes en maire SAUF si il y a un banquier et vous êtes obligé de mettre votre imprimante à la banque.
+Quand un maire est tué en dictature, il ne peut plus y avoir de dictature pendant 15 minutes.
+Pour démarrer une dictature vous devez l'annoncer en /broadcast ou /advert et mettre un couvre-feu (pour un couvre-feu normal, signalez-le aussi).
+Tous les délits doivent être passés en illégal pour entamer une dictature.
+Lors d'une dictature, le Maire peut demander des contrôles de routine si le contexte RP le lui oblige. (Rébellion, etc)
+
+Garde du Corps :
+
+Règles :
+Vous devez assurer la survie du maire ou bien de votre employeur au péril de la vôtre.
+
+Gangsters/Parrain :
+
+Règles :
+Vous organisez des vols, rackets, braquages, ainsi que des prises d'otages.
+
+
+Gangsters/Mafieux:
+
+Règles :
+Vous exécutez des vols, rackets, braquages, ainsi que des prises d'otages.
+Il faut être minimum 2 joueurs ARMÉS pour faire un braquage.
+Particularité Anarchiste : vous ne possédez aucun chef de faction.
+
+
+Vendeur d'armes :
+
+Règles :
+Vous devez vendre des armes dans votre magasin.
+INTERDIT de s'acheter des armes pour soi-même si un autre vendeur est en ville.
+Vous pouvez vous associer avec les autres marchands légaux pour construire votre magasin.
+
+Marchand Noir :
+
+Règles :
+Vous devez vendre des armes illégales discrètement.
+Vous pouvez faire un magasin, cependant il doit rester discret, on ne doit pas penser que vous vendez des armes.
+INTERDIT de s'acheter des armes pour soi-même si un autre vendeur est en ville.
+
+
+Médecin :
+
+Règles :
+Vous soignez les gens dans votre cabinet médical.
+Vous pouvez être engagé par les mafieux, les gangsters, le maire ou la police.
+Vous devez secourir les gens le plus rapidement possible.
+
+
+Cuisinière :
+
+Règles :
+Vous vendez de la nourriture dans votre restaurant.
+OBLIGATOIRE de placer le micro-onde proche du spawn et bien visible si une autre cuisinière n'en a pas déjà placé un. (En plus, c'est rentable!)
+INTERDIT de propblock le micro-onde.
+
+
+Barman :
+
+Règles :
+Vous devez vendre des boissons et des cigarettes dans votre bar.
+Votre radio doit rester dans votre bar!
+
+
+Banquier :
+
+Règles :
+Vous devez protéger et entretenir des imprimantes d'argent des personnes qui vous les confient.
+Vos propres imprimantes d'argent ne sont pas considérées comme légales.
+OBLIGATOIRE de vous installer dans la banque du centre-ville !
+INTERDIT de monopoliser la banque si un autre banquier réclame l'accès à la banque
+
+Agent de Sécurité :
+
+Règles :
+Vous devez garder le magasin de la personne qui vous engage.
+
+
+Chauffeur de Taxi :
+
+Règles :
+Vous devez conduire les clients à travers la ville.
+Pour un trajet, le montant maximum est de 150$.
+Vous avez le droit de transporter des criminels en fuite.
+
+
+Pompier :
+
+Règles :
+Vous parcourez la ville à la recherche de feux à éteindre.
+INTERDIT de déclencher vous-même des feux!
+
+
+Garagiste : 
+
+Règles :
+Vous devez récupérer les véhicules abandonnés ou qui font un stationnement interdit.
+INTERDIT d'embarquer un véhicule de fonction ayant ses gyrophares allumés.
+INTERDIT de remorquer des véhicules avec des personnes à l'intérieur.
+
+
+Mendiant : 
+
+Règles :
+Vous mendiez pour gagner votre vie.
+Vous pouvez construire votre maison dans la rue (dans la limite du raisonnable, pas question de construire une villa !).
+INTERDIT
+de jeter des excréments sans raisons.
+INTERDIT de faire des constructions fermés (avec fading doors + keypad) sauf si présence de boutons.
+
+
+Voleur :
+
+Règles :
+INTERDIT de voler des items droppés par un autre joueur (Droppés : jetés au sol pour le mettre dans son inventaire).
+INTERDIT de voler l'argent / l'item lors d'une transaction avec un marchand et un joueur.
+INTERDIT de voler 2 fois la même personne.
+INTERDIT de voler en face d'une personne.
+INTERDIT de voler à la vue des gens.
+INTERDIT de voler au Spawn.(ATM/pickpocket)
+
+
+Dealer : 
+
+Règles :
+Vous devez vendre de la drogue et fabriquer de la meth discrètement.
+
+
+Tueur à Gage :
+
+Règles :
+Vous réalisez des contrats d’assassinats pour de l'argent. 
+INTERDIT d'utiliser votre sniper par défaut pour autre chose que l’exécution de vos contrats.
+INTERDIT d'accepter un contrat si votre client ne le justifie pas par un motif RP. (nécessite donc un minimum de conversation)
+
+
+Psychopathe :
+
+Règles :
+Vous usez de discrétion et de pièges afin d'éliminer de pauvres âmes perdues sans défenses.
+Vous devez tuer UNIQUEMENT dans des endroits isolés et sans témoins. (hors cas RP exceptionnel)
+OBLIGATION de tuer vos victimes à l'arme blanche ! Tuer gratuitement à l'arme à feu sera considéré comme un FREEKILL.
+
+ACTIONS RP
+
+
+Le Racket : 
+
+Règles :
+
+INTERDIT de racketter dans la zone de spawn.
+INTERDIT de racketter seul, vous devez être 2 joueurs armés.
+INTERDIT de demander plus de 1000$ pour un racket.
+INTERDIT de racketter sans au moins 2 policiers sur le serveur.
+INTERDIT de racketter si vous n'êtes pas Gangsters/Mafieux/Anarchistes/Jades.
+Tout non-respect de ces interdictions se traduira par un ban.
+
+
+La dictature : 
+
+Règles :
+
+INTERDIT au maire d'ordonner aux policiers de tirer à vue.
+Lors d'une dictature, le Maire peut demander des contrôles de routine si le contexte RP le lui oblige (Rébellion, etc).
+Tout non-respect de ces interdictions se traduira par un ban.
+
+
+
+Nous vous souhaitons un bon jeu !
+​
